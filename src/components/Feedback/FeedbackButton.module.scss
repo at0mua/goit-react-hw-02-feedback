@@ -1,0 +1,7 @@
+.feedback_btn {
+  width: 60px;
+}
+
+.feedback_btn::first-letter {
+  text-transform: uppercase;
+}
